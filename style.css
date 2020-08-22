@@ -1,0 +1,41 @@
+body{
+    margin: 0px;
+    padding: 0px;
+    
+}
+
+h2{
+    font-family: 'Franklin Gothic Medium', 'Arial Narrow', Arial, sans-serif;
+    font-size: 14px;   
+}
+
+
+.form-group button{
+    background-color: #6495ed;
+    border: 1px #6495ed solid;
+    border-radius: 5px;
+    padding: 10px;
+    color: #ffff;
+}
+
+h3{
+    font-family: 'Franklin Gothic Medium', 'Arial Narrow', Arial, sans-serif;
+    font-size: 12px;  
+    text-align: center; 
+    font-variant: normal;
+}
+
+h4{
+    font-family: 'Franklin Gothic Medium', 'Arial Narrow', Arial, sans-serif;
+    font-size: 10px;   
+    text-align: center;
+    text-transform: capitalize;
+}
+
+p{
+    font-family: cursive;
+}
+
+#container{
+    width: 850px;  
+}
